@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "bajadepeso-clone",
+    "name": "curso-fabricacerveza",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -63,8 +63,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "La Guía Completa para Bajar de Peso Paso a Paso",
-        "meta_descr": "Con este método vas a bajar de peso seguro...Al fin podrás ponerte ese traje de\nbaño que te gusta pero que no puedes usar... Se aproxima el verano y si sigues\nmis consejos LO VAS A LOGRAR. Verás que perder grasa nunca ha sido tan fácil.",
+        "title": "Curso Completo para Fabricar tu Cerveza Artesanal",
+        "meta_descr": "Ahora nuestro curso es online. Todo el proceso paso a paso en video para que puedas aprender a hacer cerveza en tu casa.\nHacer cerveza rica y de calidad en casa es posible.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
